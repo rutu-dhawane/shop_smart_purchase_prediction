@@ -13,7 +13,7 @@ This project predicts customer purchase behavior using a Decision Tree Classifie
 ## Model Performance
 
 - Test Accuracy: 84.39%
-- Best Cross-Validation F1 Score: 0.6344
+- Best Cross-Validation F1 Score: 63.44%
 
 ## Technologies
 
